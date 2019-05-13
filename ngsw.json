@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1557692898388,
+  "timestamp": 1557735632648,
   "index": "https://kumar-asoss18.github.io/test/index.html",
   "assetGroups": [
     {
@@ -47,7 +47,7 @@
     "https://kumar-asoss18.github.io/test/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://kumar-asoss18.github.io/test/es2015-polyfills.c5dd28b362270c767b34.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
     "https://kumar-asoss18.github.io/test/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://kumar-asoss18.github.io/test/index.html": "9dc01c3e32e49df1934eee68281518cdad7a798f",
+    "https://kumar-asoss18.github.io/test/index.html": "fb3b5e6c3b395a973729a561501c166b736606a9",
     "https://kumar-asoss18.github.io/test/main.6ef198979db0cd580088.js": "9699e89ec51f0c49c5d7bfa17cb1a0791759e2b6",
     "https://kumar-asoss18.github.io/test/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "https://kumar-asoss18.github.io/test/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
